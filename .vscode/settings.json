@@ -1,0 +1,9 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "files.autoSave": "off",
+  "git.autofetch": true,
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma"
+  }
+}
